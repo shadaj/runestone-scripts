@@ -52,4 +52,6 @@
       window.ActiveCode.prototype = origCreate;
     }
   }
+  
+  gradeStudentsByIndex(0);
 })();
